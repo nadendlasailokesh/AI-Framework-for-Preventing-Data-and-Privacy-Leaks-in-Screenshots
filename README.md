@@ -1,0 +1,1 @@
+Developed PII Guard, a multimodal AI framework for real-time detection and redaction of sensitive information in screenshots. Implemented an OCR pipeline using EasyOCR, integrated computer vision for detecting sensitive regions, applied NLP for PII validation, and used cryptographic hashing to ensure secure anonymization of extracted data.
